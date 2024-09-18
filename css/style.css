@@ -1,0 +1,26 @@
+* {
+    color:aquamarine;
+
+}
+
+body {
+    background-color: black;
+}
+
+
+.colorbox {
+    background-color: slategray;
+}
+
+#david h2, #david p {
+    color:coral;
+}
+
+#myarticle {
+    background-color: cornsilk;
+    padding: 5px 50px 15px;
+    border: 15px; 
+    border-color: chocolate;
+    margin: 10px;
+}
+
